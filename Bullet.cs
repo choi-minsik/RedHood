@@ -37,4 +37,9 @@ public class Bullet : MonoBehaviour
         obj.gameObject.SetActive(true);
         gameObject.SetActive(false);
     }
+
+    void Test()
+    {
+
+    }
 }
